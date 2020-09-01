@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/kaustubhdpatil/PersonalWebsite/static/js/main.f52bc2d5.chunk.js",
-    "main.js.map": "/kaustubhdpatil/PersonalWebsite/static/js/main.f52bc2d5.chunk.js.map",
-    "runtime-main.js": "/kaustubhdpatil/PersonalWebsite/static/js/runtime-main.1cc5d19b.js",
-    "runtime-main.js.map": "/kaustubhdpatil/PersonalWebsite/static/js/runtime-main.1cc5d19b.js.map",
-    "static/js/2.b70700cb.chunk.js": "/kaustubhdpatil/PersonalWebsite/static/js/2.b70700cb.chunk.js",
-    "static/js/2.b70700cb.chunk.js.map": "/kaustubhdpatil/PersonalWebsite/static/js/2.b70700cb.chunk.js.map",
-    "index.html": "/kaustubhdpatil/PersonalWebsite/index.html",
-    "precache-manifest.2c869a85965bda6c5a6f1455538ec0d3.js": "/kaustubhdpatil/PersonalWebsite/precache-manifest.2c869a85965bda6c5a6f1455538ec0d3.js",
-    "service-worker.js": "/kaustubhdpatil/PersonalWebsite/service-worker.js",
-    "static/js/2.b70700cb.chunk.js.LICENSE.txt": "/kaustubhdpatil/PersonalWebsite/static/js/2.b70700cb.chunk.js.LICENSE.txt"
+    "main.js": "./static/js/main.f52bc2d5.chunk.js",
+    "main.js.map": "./static/js/main.f52bc2d5.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.be9ee3f7.js",
+    "runtime-main.js.map": "./static/js/runtime-main.be9ee3f7.js.map",
+    "static/js/2.b70700cb.chunk.js": "./static/js/2.b70700cb.chunk.js",
+    "static/js/2.b70700cb.chunk.js.map": "./static/js/2.b70700cb.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.145bef8da904184b65d526695632f6c2.js": "./precache-manifest.145bef8da904184b65d526695632f6c2.js",
+    "service-worker.js": "./service-worker.js",
+    "static/js/2.b70700cb.chunk.js.LICENSE.txt": "./static/js/2.b70700cb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1cc5d19b.js",
+    "static/js/runtime-main.be9ee3f7.js",
     "static/js/2.b70700cb.chunk.js",
     "static/js/main.f52bc2d5.chunk.js"
   ]
